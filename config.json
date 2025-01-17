@@ -1,0 +1,32 @@
+{
+  "number": 4,
+  "symbol": "RATI",
+  "sellerFeeBasisPoints": 500,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "5phDNEbX5KUjfXaffx7jyuQE3gHdU2pAAFmcnpYXWgFJ",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "retainAuthority": true,
+  "guards": {
+    "default": {
+      "tokenBurn": {
+        "amount": 1,
+        "mint": "TO_BE_REPLACED_WITH_SPL_TOKEN_MINT"
+      },
+      "mintLimit": {
+        "id": 1,
+        "limit": 1
+      },
+      "hiddenSettings": {
+        "name": "RATi AVATAR ???",
+        "uri": "TO_BE_REPLACED_WITH_HIDDEN_URI",
+        "hash": "d6c5a289c960126fa3fc5c84bb2a3bc9"
+      }
+    }
+  }
+}

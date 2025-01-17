@@ -1,0 +1,1 @@
+// This file is being removed as we're using client-side signing with ArConnect

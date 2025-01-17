@@ -1,0 +1,1 @@
+// This file is being removed as part of Solana functionality cleanup
